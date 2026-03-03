@@ -74,8 +74,8 @@ export default function Header({ lastResult }) {
 
         {/* Avatar */}
         <div className="w-9 h-9 rounded-xl flex items-center justify-center text-white text-sm font-bold"
-             style={{ background: 'linear-gradient(135deg, #2563eb, #3b82f6)',
-                      boxShadow: '0 2px 8px rgba(37,99,235,0.3)' }}>
+             style={{ background: 'linear-gradient(135deg, #059669, #34d399)',
+                      boxShadow: '0 2px 8px rgba(5,150,105,0.3)' }}>
           <User size={16} />
         </div>
       </div>
