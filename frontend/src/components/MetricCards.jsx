@@ -29,7 +29,7 @@ const STATUS = {
   safe:    { color: '#16a34a', bg: '#f0fdf4', border: '#bbf7d0', label: 'Optimal',   barColor: '#4ade80' },
   caution: { color: '#d97706', bg: '#fffbeb', border: '#fde68a', label: 'Elevated',  barColor: '#fbbf24' },
   danger:  { color: '#dc2626', bg: '#fef2f2', border: '#fecaca', label: 'Critical',  barColor: '#f87171' },
-  neutral: { color: '#2563eb', bg: '#eff6ff', border: '#bfdbfe', label: 'Recorded',  barColor: '#60a5fa' },
+  neutral: { color: '#2563eb', bg: '#eff6ff', border: '#bfdbfe', label: 'Recorded',  barColor: '#34d399' },
 }
 
 export default function MetricCards({ patientData }) {
